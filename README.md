@@ -1,5 +1,5 @@
 # Barcode-Creator-And-Scanner
-###Welcome to the Barcode-Creator-And-Scanner wiki! We have started to work on this program Taking an idea of the collect piece of data with the help of Barcode and along with this, we can do data manipulation also.
+Welcome to the Barcode-Creator-And-Scanner   We have started to work on this program Taking an idea of the collect piece of data with the help of Barcode and along with this, we can do data manipulation also.
 
 It is like an app that will scan the barcode save the data in editable form as well as display the data and also it has an option for sending the data to the main server where we can visualize the data.
 
